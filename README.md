@@ -66,7 +66,7 @@ I am open to remote **Full Stack .NET**, **Backend .NET**, and **Cross-Platform 
 
 - **Location**: Alexandria, Egypt
 - **Email**: [t.yones134679@gmail.com](mailto:t.yones134679@gmail.com) / [t.mhamed134679@gmail.com](mailto:t.mhamed134679@gmail.com)
-- **GitHub**: [github.com/tahayones](https://github.com/tahayones)
+- **Contact**: +2001030269169 / +2001500607058
 
 ---
 
