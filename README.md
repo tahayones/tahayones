@@ -26,6 +26,11 @@ Full Stack .NET & Cross-Platform Mobile Engineer based in Alexandria, Egypt. I s
 
 ## Featured Projects
 
+### [Eshtry Men Escot (أشتري من اسكوت) — Hyperlocal Delivery & Multi-Vendor Marketplace Platform](https://escot.runasp.net)
+- **Live Platform**: [https://escot.runasp.net](https://escot.runasp.net)
+- **Tech Stack**: ASP.NET Core 9, Clean Architecture, CQRS (MediatR), SignalR Hubs, Entity Framework Core, SQL Server, Angular 19, Flutter 3.x, Leaflet, JWT Bearer, Double-Entry Financial Ledger.
+- **Overview**: Hyperlocal on-demand delivery ecosystem and multi-vendor marketplace tailored for the Escot & Miami Gidida districts in Alexandria, Egypt. Features a triple-application Flutter mobile suite (Customer App, Courier App with live GPS routing and cash settlement, and Merchant Order Dispatch Terminal), an Angular 19 Super Admin operations dashboard with real-time interactive mapping, and a financial engine enforcing strict double-entry ledger settlement, wallet balances, and floating cash controls. Source code is private.
+
 ### [FitCoach Pro — Multi-Tenant Fitness & Coaching SaaS Platform](https://github.com/tahayones/fitcoach-pro-showcase)
 - **Live Platform**: [https://fitcoachpro.runasp.net](https://fitcoachpro.runasp.net)
 - **Google Play App**: [FitCoach Pro on Google Play](https://play.google.com/store/apps/details?id=com.fitcoachpro.mobile)
