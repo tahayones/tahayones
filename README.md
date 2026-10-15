@@ -26,6 +26,19 @@ Full Stack .NET & Cross-Platform Mobile Engineer based in Alexandria, Egypt. I s
 
 ## Featured Projects
 
+### <img src="assets/senara-icon.png" width="30" height="30" valign="middle" alt="Senara Logo" /> [Senara (صِـنَّـارَة) — Marine Booking, Angler Catch Community & Tackle Platform](https://senara.runasp.net)
+
+<p align="center">
+  <a href="https://senara.runasp.net">
+    <img src="assets/senara-preview.png" alt="Senara Marine Booking & Angler Community Platform" width="100%" />
+  </a>
+</p>
+
+- **Live Platform**: [https://senara.runasp.net](https://senara.runasp.net)
+- **Google Play App**: [Senara on Google Play](https://play.google.com/store/apps/details?id=com.senara.app.senara_mobile)
+- **Tech Stack**: ASP.NET Core 10 / 9, Clean Architecture, Angular 19, Flutter 3.x, Entity Framework Core, SQL Server, SignalR Hubs, Open-Meteo Marine Weather API, Firebase Cloud Messaging (FCM), JWT Bearer.
+- **Overview**: Unified marine booking and angler social ecosystem built for sea anglers, licensed boat captains, and maritime authorities in Egypt. Features dynamic fishing charter scheduling (private charters and shared seat reservations), Egyptian Coast Guard passenger manifest compliance with National ID validation, real-time Open-Meteo sea telemetry (wave heights, swell periods, wind speed, and maritime safety flags), an interactive angler catch bragging community with GPS catch logging, a specialized saltwater tackle e-commerce store, and a captain earnings settlement wallet with double-entry ledger tracking. Source code is private.
+
 ### [Eshtry Men Escot (أشتري من اسكوت) — Hyperlocal Delivery & Multi-Vendor Marketplace Platform](https://escot.runasp.net)
 - **Live Platform**: [https://escot.runasp.net](https://escot.runasp.net)
 - **Tech Stack**: ASP.NET Core 9, Clean Architecture, CQRS (MediatR), SignalR Hubs, Entity Framework Core, SQL Server, Angular 19, Flutter 3.x, Leaflet, JWT Bearer, Double-Entry Financial Ledger.
