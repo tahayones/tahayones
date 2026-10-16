@@ -143,7 +143,7 @@ I contribute to enterprise web and backend platforms using ASP.NET Core, Angular
 I am open to remote **Full Stack .NET**, **Backend .NET**, and **Cross-Platform Mobile** engineering opportunities.
 
 - **Location**: Alexandria, Egypt
-- **Email**: [t.yones134679@gmail.com](mailto:t.yones134679@gmail.com) / [t.mhamed134679@gmail.com](mailto:t.mhamed134679@gmail.com)
+- **Email**: [t.yones134679@gmail.com](mailto:t.yones134679@gmail.com) / [taha.fullstack@gmail.com](mailto:taha.fullstack@gmail.com)
 - **Contact**: +2001030269169 / +2001500607058
 
 ---
